@@ -1,0 +1,48 @@
+
+	[
+	    {
+		"author": "SK wallpapers",
+		"name": "garden",
+		"url": "https://raw.githubusercontent.com/shahid111111/Frosted/master/garden.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/Frosted/master/garden%20small.png"
+		
+	},
+	{
+		"author": "SK wallpapers",
+                "name": "forest",
+		"url": "https://raw.githubusercontent.com/shahid111111/Frosted/master/forest2.png",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/Frosted/master/forest%20small.jpg"
+	},
+	{
+		"author": "SK wallpapers",
+                "name": "gradient1",
+		"url": "https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient1.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient1%20small.jpg"
+	},
+	{
+		"author": "SK wallpapers",
+                "name": "gradient2",
+		"url": "https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient2.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient2%20small.jpg"
+	},
+	{
+		"author": "SK wallpapers",
+                "name": "gradient3",
+		"url": "https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient3.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient3%20small.jpg"
+	},
+	{
+		"author": "SK wallpapers",
+                "name": "gradient4",
+		"url": "https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient4.jpg",
+		"thumbnail":"https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient4%20small.jpg"
+	},
+	{
+		"author": "SK wallpapers",
+                "name": "gradient5",
+		"url": "https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient5.jpg",
+"thumbnail":"https://raw.githubusercontent.com/shahid111111/Frosted/master/gradient5%20small.jpg"
+	}
+	
+	
+   ]
